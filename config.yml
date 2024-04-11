@@ -1,0 +1,3 @@
+# Sonar configuration
+sonar_url: "http://name.sonar.software"
+sonar_token: ""
